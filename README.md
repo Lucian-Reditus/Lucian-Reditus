@@ -1,6 +1,5 @@
 👋 Greetings, I'm Lucian Reditus Shaw,
-I aim to create profound or beautiful experiences, and that has brought me to games development.
-I'm currently reading and can recommend, Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 📗📘📙
+I aim to create profound and beautiful experiences, and that has brought me to games development.
 
 🎮🎮🎮 Looking to create games and expand my skills! 🎮🎮🎮
 
